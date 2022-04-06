@@ -1,2 +1,1 @@
-# c20trex
-Chrome's trex game created using p5.play
+# C19-SA
